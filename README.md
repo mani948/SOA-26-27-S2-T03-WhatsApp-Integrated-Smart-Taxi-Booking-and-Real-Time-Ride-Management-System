@@ -8,13 +8,13 @@
 | I. Vishnu Vardhan | 2420030513 |
 | G. Tanay tej      | 2420030560 |
 
-> Update the team member names and ID numbers according to your project team.
+
 
 ---
 
 ## Supervisor
 
-**Supervisor Name:** Supervisor Name
+**Supervisor Name:** K. Venkateswari
 
 ---
 
